@@ -1,17 +1,6 @@
-{\rtf1\ansi\ansicpg1252\cocoartf2580
-\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fnil\fcharset0 Menlo-Regular;}
-{\colortbl;\red255\green255\blue255;\red27\green31\blue34;\red233\green233\blue233;\red7\green68\blue184;
-\red6\green33\blue79;\red0\green0\blue0;}
-{\*\expandedcolortbl;;\cssrgb\c14118\c16078\c18039;\cssrgb\c92941\c92941\c92941\c50196;\cssrgb\c0\c36078\c77255;
-\cssrgb\c1176\c18431\c38431;\csgray\c0;}
-\paperw11900\paperh16840\margl1440\margr1440\vieww22920\viewh13560\viewkind0
-\deftab720
-\pard\pardeftab720\partightenfactor0
-
-\f0\fs28 \cf2 \cb3 \expnd0\expndtw0\kerning0
-\{\cf4   \
-"name"\cf2 : \cf5 \'93MEGA EU Movement\cf2 ,\cf4   "symbol"\cf2 : \cf5 \'93MEGA\'94\cf2 ,\cf4   \
-"description"\cf2 : \cf5 \'93MEGA EU Official Movement \cf2 ,\cf4   \
-"image"\cf2 : \cf5 "{\field{\*\fldinst{HYPERLINK "https://github.com/aless77m/PRIMUT/blob/main/bitcoin-europe-eu.png"}}{\fldrslt 
-\fs22 \cf6 \cb1 \kerning1\expnd0\expndtw0 \CocoaLigature0 https://github.com/aless77m/PRIMUT/blob/main/bitcoin-europe-eu.png}}"\
-\cf2 \}}
+{  
+"name": “MEGA EU Movement,  
+"symbol": “MEGA”,  
+"description": “MEGA EU Official Movement ,  
+"image": "https://github.com/aless77m/PRIMUT/blob/main/bitcoin-europe-eu.png"
+}
